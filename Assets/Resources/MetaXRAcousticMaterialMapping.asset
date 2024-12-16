@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3402f41fb2bc77540b1edc3e8db81bce, type: 3}
-  m_Name: ConvaiAPIKey
+  m_Script: {fileID: 11500000, guid: 60e5406209e5ed147bb02ed71f9c40f3, type: 3}
+  m_Name: MetaXRAcousticMaterialMapping
   m_EditorClassIdentifier: 
-  APIKey: 64b11366bbfb3a2f4c1121ebfb093b2d
+  mapping: []
+  fallbackMaterial: {fileID: 0}
